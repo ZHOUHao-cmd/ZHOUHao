@@ -1,2 +1,2 @@
 # ZHOUHao
-Hi,im a cat.From Shenyang University of Aeronautics and Astronautics
+Hi,im a master.From Shenyang University of Aeronautics and Astronautics
