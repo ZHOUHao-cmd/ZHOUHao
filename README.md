@@ -1,2 +1,4 @@
 # ZHOUHao
-Hi,im a master.From Shenyang University of Aeronautics and Astronautics
+Name: zhouhao
+come from; Shenyang University of Aeronautics and Astronautics 
+Master's degree in progress
